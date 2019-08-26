@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicRecycleView</string>
+
+    <string name="iniJudul">Cara Tobat Yang Baik dan Benar</string>
+    <string name="subJudul">Dakwah Islami</string>
+    <string name="changeLanguage" />
+    <string name="cari">Search</string>
+</resources>
